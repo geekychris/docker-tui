@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Docker Tui logo" width="180">
+</p>
+
 # Docker Management Tool
 
 A command-line Docker management tool similar to k9s for Kubernetes. This tool provides a menu-driven interface for managing Docker containers, images, and viewing logs.
